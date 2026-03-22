@@ -22,6 +22,7 @@ Everything available in this repo at a glance:
 | [`docs/IoT-GPT-Research-Presentation.pptx`](docs/IoT-GPT-Research-Presentation.pptx) | 15-slide PowerPoint — slides 1–10 research overview, slides 11–15 how students can participate |
 | [`docs/presentation-slides.md`](docs/presentation-slides.md) | All 15 presentation slides in Markdown format — same content as the .pptx, web-readable |
 | [`docs/learning-path.md`](docs/learning-path.md) | Comprehensive 15-topic learning path across 4 phases — from beginner to advanced, with direct links to free learning resources |
+| [`docs/student-contribution-guide.md`](docs/student-contribution-guide.md) | Full student onboarding guide — 12-week daily plan, hardware shopping list, 5 experiments, first project, and step-by-step setup |
 
 ---
 
