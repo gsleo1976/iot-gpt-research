@@ -40,28 +40,28 @@ You do not need all devices on day one. The list is ordered by priority — star
 
 | # | Device | Purpose | Approx. Cost | Where to Buy |
 |---|--------|---------|-------------|--------------|
-| 1 | Raspberry Pi 5 (4 GB) | Main computer — runs all automation logic | £55 / $75 | raspberrypi.com / Amazon |
-| 2 | Raspberry Pi USB-C Power Supply | Powers the Pi reliably at 5V 5A | £12 / $15 | raspberrypi.com |
-| 3 | MicroSD Card 32 GB+ (Class 10) | Operating system & data storage | £8 / $10 | Amazon |
-| 4 | DHT22 Temperature/Humidity Sensor | Measures indoor temperature & humidity | £5 / $6 | Amazon / AliExpress |
-| 5 | Breadboard + Jumper Wires Kit | Prototype circuits without soldering | £5 / $6 | Amazon |
+| 1 | Raspberry Pi 5 (4 GB) | Main computer — runs all automation logic | £55 / $75 | [raspberrypi.com](https://raspberrypi.com) · [Amazon India](https://www.amazon.in/s?k=raspberry+pi+5) |
+| 2 | Raspberry Pi USB-C Power Supply | Powers the Pi reliably at 5V 5A | £12 / $15 | [raspberrypi.com](https://raspberrypi.com) · [Amazon India](https://www.amazon.in/s?k=raspberry+pi+5+power+supply) |
+| 3 | MicroSD Card 32 GB+ (Class 10) | Operating system & data storage | £8 / $10 | [Amazon India](https://www.amazon.in/s?k=microsd+card+32gb+class+10) |
+| 4 | DHT22 Temperature/Humidity Sensor | Measures indoor temperature & humidity | £5 / $6 | [Amazon India](https://www.amazon.in/s?k=DHT22+temperature+humidity+sensor) |
+| 5 | Breadboard + Jumper Wires Kit | Prototype circuits without soldering | £5 / $6 | [Amazon India](https://www.amazon.in/s?k=breadboard+jumper+wires+kit) |
 | 6 | HDMI cable + monitor (temporary) | First-time Pi setup only | You may already have one | — |
 
 ### 2.2 Smart Lighting & ZigBee (~£40 / ~$50)
 
 | # | Device | Purpose | Approx. Cost | Where to Buy |
 |---|--------|---------|-------------|--------------|
-| 7 | SONOFF Zigbee 3.0 USB Dongle Plus | ZigBee coordinator — connects smart bulbs to Pi | £15 / $18 | Amazon / SONOFF store |
-| 8 | IKEA TRADFRI E27 White Spectrum Bulb | Calm ambient signals — warm to cool white | £8 / $10 | IKEA |
-| 9 | IKEA TRADFRI E27 Colour Bulb | Full RGB colour signals (snow = blue, etc.) | £15 / $18 | IKEA |
-| 10 | Lamp or desk lamp with E27 socket | Holds the smart bulb for testing | £8 / $10 | IKEA / supermarket |
+| 7 | SONOFF Zigbee 3.0 USB Dongle Plus | ZigBee coordinator — connects smart bulbs to Pi | £15 / $18 | [Amazon India](https://www.amazon.in/s?k=sonoff+zigbee+usb+dongle) · [SONOFF store](https://sonoff.tech) |
+| 8 | IKEA TRADFRI E27 White Spectrum Bulb | Calm ambient signals — warm to cool white | £8 / $10 | [IKEA](https://www.ikea.com/in/en/) · [Amazon India](https://www.amazon.in/s?k=IKEA+TRADFRI+smart+bulb) |
+| 9 | IKEA TRADFRI E27 Colour Bulb | Full RGB colour signals (snow = blue, etc.) | £15 / $18 | [IKEA](https://www.ikea.com/in/en/) · [Amazon India](https://www.amazon.in/s?k=IKEA+TRADFRI+colour+bulb) |
+| 10 | Lamp or desk lamp with E27 socket | Holds the smart bulb for testing | £8 / $10 | [Amazon India](https://www.amazon.in/s?k=desk+lamp+e27+socket) · IKEA |
 
 ### 2.3 Energy Monitoring (~£30 / ~$36)
 
 | # | Device | Purpose | Approx. Cost | Where to Buy |
 |---|--------|---------|-------------|--------------|
-| 11 | TP-Link Kasa EP25 Smart Plug (energy monitoring) | Measures real-time power draw of any device plugged in | £15 / $18 | Amazon |
-| 12 | Second Smart Plug (any brand with energy metering) | Monitor a second device simultaneously | £12 / $15 | Amazon |
+| 11 | TP-Link Kasa Smart Plug (with energy monitoring) | Measures real-time power draw of any device plugged in | £15 / $18 | [Amazon India](https://www.amazon.in/s?k=tp-link+kasa+smart+plug+energy+monitoring) |
+| 12 | Second Smart Plug (any brand with energy metering) | Monitor a second device simultaneously | £12 / $15 | [Amazon India](https://www.amazon.in/s?k=smart+plug+energy+monitor) |
 
 > **Total Budget:** Starter kit only: ~£50 / ~$60 · Full setup (all items): ~£148 / ~$188. You can start all experiments with just the starter kit + ZigBee items.
 
