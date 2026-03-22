@@ -35,7 +35,7 @@ Files within each folder are numbered in order of creation.
 
 | # | File | Description |
 |---|------|-------------|
-| — | [`docs/guides/learning-path.md`](docs/guides/learning-path.md) | 15-topic learning path across 4 phases — beginner to advanced, with direct links to free resources |
+| 04 | [`docs/guides/04-learning-path.md`](docs/guides/04-learning-path.md) | 15-topic learning path across 4 phases — beginner to advanced, with direct links to free resources |
 | 01 | [`docs/guides/01-IoT-GPT-Research-Proposal.md`](docs/guides/01-IoT-GPT-Research-Proposal.md) | Full research proposal in Markdown — background, methodology, architecture, experiments, expected outcomes |
 | 02 | [`docs/guides/02-IoT-GPT-Beginner-Guide.md`](docs/guides/02-IoT-GPT-Beginner-Guide.md) | Hardware & software setup guide — Raspberry Pi, MQTT, DHT22 wiring, InfluxDB, Grafana (INR prices, Amazon India links) |
 | 03 | [`docs/guides/03-IoT-GPT-Student-Contribution-Guide.md`](docs/guides/03-IoT-GPT-Student-Contribution-Guide.md) | Student onboarding guide — 12-week daily plan, hardware shopping list (INR / Amazon India), 5 experiments, step-by-step setup |
