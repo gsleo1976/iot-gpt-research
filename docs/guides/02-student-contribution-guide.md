@@ -34,36 +34,36 @@ As a student contributor you will build real hardware, write real Python code, a
 
 ## 2. Hardware Shopping List
 
-You do not need all devices on day one. The list is ordered by priority — start with the first four items (under £50 / $60) and add more as you progress.
+You do not need all devices on day one. The list is ordered by priority — start with the first four items (under ₹10,000) and add more as you progress.
 
-### 2.1 Essential Starter Kit (~£50 / ~$60)
+### 2.1 Essential Starter Kit (~₹10,000)
 
-| # | Device | Purpose | Approx. Cost | Where to Buy |
-|---|--------|---------|-------------|--------------|
-| 1 | Raspberry Pi 5 (4 GB) | Main computer — runs all automation logic | £55 / $75 | [raspberrypi.com](https://raspberrypi.com) · [Amazon India](https://www.amazon.in/s?k=raspberry+pi+5) |
-| 2 | Raspberry Pi USB-C Power Supply | Powers the Pi reliably at 5V 5A | £12 / $15 | [raspberrypi.com](https://raspberrypi.com) · [Amazon India](https://www.amazon.in/s?k=raspberry+pi+5+power+supply) |
-| 3 | MicroSD Card 32 GB+ (Class 10) | Operating system & data storage | £8 / $10 | [Amazon India](https://www.amazon.in/s?k=microsd+card+32gb+class+10) |
-| 4 | DHT22 Temperature/Humidity Sensor | Measures indoor temperature & humidity | £5 / $6 | [Amazon India](https://www.amazon.in/s?k=DHT22+temperature+humidity+sensor) |
-| 5 | Breadboard + Jumper Wires Kit | Prototype circuits without soldering | £5 / $6 | [Amazon India](https://www.amazon.in/s?k=breadboard+jumper+wires+kit) |
+| # | Device | Purpose | Price (Amazon India) | Buy Link |
+|---|--------|---------|---------------------|----------|
+| 1 | Raspberry Pi 5 (4 GB) | Main computer — runs all automation logic | ₹7,999 | [amazon.in](https://www.amazon.in/s?k=raspberry+pi+5+4gb) |
+| 2 | Raspberry Pi USB-C Power Supply (27W) | Powers the Pi reliably at 5V 5A | ₹1,299 | [amazon.in](https://www.amazon.in/s?k=raspberry+pi+5+power+supply+27w) |
+| 3 | SanDisk MicroSD Card 32 GB (Class 10 / A1) | Operating system & data storage | ₹399 | [amazon.in](https://www.amazon.in/s?k=sandisk+microsd+32gb+class+10) |
+| 4 | DHT22 Temperature & Humidity Sensor | Measures indoor temperature & humidity | ₹249 | [amazon.in](https://www.amazon.in/s?k=DHT22+temperature+humidity+sensor) |
+| 5 | Breadboard + Jumper Wires Kit | Prototype circuits without soldering | ₹299 | [amazon.in](https://www.amazon.in/s?k=breadboard+jumper+wires+kit+electronics) |
 | 6 | HDMI cable + monitor (temporary) | First-time Pi setup only | You may already have one | — |
 
-### 2.2 Smart Lighting & ZigBee (~£40 / ~$50)
+### 2.2 Smart Lighting & ZigBee (~₹5,500)
 
-| # | Device | Purpose | Approx. Cost | Where to Buy |
-|---|--------|---------|-------------|--------------|
-| 7 | SONOFF Zigbee 3.0 USB Dongle Plus | ZigBee coordinator — connects smart bulbs to Pi | £15 / $18 | [Amazon India](https://www.amazon.in/s?k=sonoff+zigbee+usb+dongle) · [SONOFF store](https://sonoff.tech) |
-| 8 | IKEA TRADFRI E27 White Spectrum Bulb | Calm ambient signals — warm to cool white | £8 / $10 | [IKEA](https://www.ikea.com/in/en/) · [Amazon India](https://www.amazon.in/s?k=IKEA+TRADFRI+smart+bulb) |
-| 9 | IKEA TRADFRI E27 Colour Bulb | Full RGB colour signals (snow = blue, etc.) | £15 / $18 | [IKEA](https://www.ikea.com/in/en/) · [Amazon India](https://www.amazon.in/s?k=IKEA+TRADFRI+colour+bulb) |
-| 10 | Lamp or desk lamp with E27 socket | Holds the smart bulb for testing | £8 / $10 | [Amazon India](https://www.amazon.in/s?k=desk+lamp+e27+socket) · IKEA |
+| # | Device | Purpose | Price (Amazon India) | Buy Link |
+|---|--------|---------|---------------------|----------|
+| 7 | SONOFF Zigbee 3.0 USB Dongle Plus | ZigBee coordinator — connects smart bulbs to Pi | ₹1,899 | [amazon.in](https://www.amazon.in/s?k=sonoff+zigbee+3.0+usb+dongle+plus) |
+| 8 | IKEA TRADFRI E27 White Spectrum Bulb | Calm ambient signals — warm to cool white | ₹999 | [ikea.com/in](https://www.ikea.com/in/en/cat/smart-lighting-36812/) · [amazon.in](https://www.amazon.in/s?k=IKEA+TRADFRI+E27+white+spectrum+smart+bulb) |
+| 9 | IKEA TRADFRI E27 Colour Bulb (full RGB) | Full colour signals — blue for snow, amber for alerts | ₹1,799 | [ikea.com/in](https://www.ikea.com/in/en/cat/smart-lighting-36812/) · [amazon.in](https://www.amazon.in/s?k=IKEA+TRADFRI+E27+colour+smart+bulb) |
+| 10 | Desk lamp with E27 socket | Holds the smart bulb during development | ₹699 | [amazon.in](https://www.amazon.in/s?k=desk+lamp+e27+bulb+holder) |
 
-### 2.3 Energy Monitoring (~£30 / ~$36)
+### 2.3 Energy Monitoring (~₹3,500)
 
-| # | Device | Purpose | Approx. Cost | Where to Buy |
-|---|--------|---------|-------------|--------------|
-| 11 | TP-Link Kasa Smart Plug (with energy monitoring) | Measures real-time power draw of any device plugged in | £15 / $18 | [Amazon India](https://www.amazon.in/s?k=tp-link+kasa+smart+plug+energy+monitoring) |
-| 12 | Second Smart Plug (any brand with energy metering) | Monitor a second device simultaneously | £12 / $15 | [Amazon India](https://www.amazon.in/s?k=smart+plug+energy+monitor) |
+| # | Device | Purpose | Price (Amazon India) | Buy Link |
+|---|--------|---------|---------------------|----------|
+| 11 | TP-Link Tapo P110 Smart Plug (energy monitoring) | Measures real-time power draw of any plugged device | ₹2,199 | [amazon.in](https://www.amazon.in/s?k=tp-link+tapo+p110+smart+plug+energy+monitor) |
+| 12 | Second Smart Plug — any brand with energy metering | Monitor a second device simultaneously | ₹999 | [amazon.in](https://www.amazon.in/s?k=smart+plug+energy+monitor+india) |
 
-> **Total Budget:** Starter kit only: ~£50 / ~$60 · Full setup (all items): ~£148 / ~$188. You can start all experiments with just the starter kit + ZigBee items.
+> **Total Budget:** Starter kit only: ~₹10,000 · Full setup (all 12 items): ~₹19,000. You can start all experiments with just the starter kit + ZigBee items (~₹15,500).
 
 ---
 
